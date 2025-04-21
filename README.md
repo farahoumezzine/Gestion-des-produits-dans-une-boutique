@@ -96,3 +96,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+
+ Les fonctionnalités principales incluent :
+CRUD : Création, lecture, mise à jour et suppression de produits.
+Validation : Pipes personnalisés pour valider les données (nom, prix, quantité, catégorie).
